@@ -1,0 +1,10 @@
+//
+// Created by MSI Sword on 4/1/2024.
+//
+
+#ifndef TREES_BINARYSEARCHTREE_H
+#define TREES_BINARYSEARCHTREE_H
+
+
+
+#endif //TREES_BINARYSEARCHTREE_H
